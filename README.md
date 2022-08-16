@@ -1,16 +1,18 @@
-### Hi there 👋
-
-<!--
-**claudiosfn/claudiosfn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey, seja bem vindo(a) 👋
+<br>
+<div style:"display:flex; align-items: center;">
+Sou estudante de programação e estou curso análise e desenvolvimentos de sistema. <br>
+</div>
+<div style:"display:flex; align-items: center;">
+<br>
+E estas são as tecnologias que eu já conheço
+<br>
+<img src="https://img.icons8.com/dusk/30/000000/javascript-logo.png"/>
+<img src="https://img.icons8.com/color/30/000000/html-5--v1.png"/>
+<img src="https://img.icons8.com/color/30/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img src="https://img.icons8.com/nolan/24/java-coffee-cup-logo.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/000000/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/>
+<br> <br>
+<div>
+<p><a href="mailto:craudiofelix@gmail.com"><img src="https://img.icons8.com/plasticine/30/000000/gmail.png"/></a>Contato: craudiofelix@gmail.com</p>
