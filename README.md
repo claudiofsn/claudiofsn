@@ -15,4 +15,3 @@ E estas são as tecnologias que eu já conheço
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/000000/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/>
 <br>
 <div>
-<p><a href="mailto:craudiofelix@gmail.com"><img src="https://img.icons8.com/plasticine/30/000000/gmail.png"/></a>
