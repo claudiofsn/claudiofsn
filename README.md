@@ -1,4 +1,4 @@
-# Hey, seja bem vindo(a) 👋
+# Hey, seja bem vindo(a)
 
 Meu nome é **Cláudio**, moro em Cajuru SP.
 
