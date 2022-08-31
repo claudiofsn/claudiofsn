@@ -15,6 +15,7 @@ Atualmente estou estudando Java E programação para Web.
 <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/nolan/24/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/25/000000/external-kotlin-a-cross-platform-statically-typed-general-purpose-programming-language-with-type-inference-logo-color-tal-revivo.png"/>
+<img src="https://img.icons8.com/office/30/000000/react.png"/>
 </div>
 
 ## Minhas atividades
