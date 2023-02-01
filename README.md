@@ -1,10 +1,10 @@
-# Hey, seja bem vindo(a)
+# Ei, seja bem vindo(a)
 
 Meu nome é **Cláudio**, moro em Cajuru SP.
 
 Sou estudante de programação e estou cursando análise e desenvolvimentos de sistema no Moura Lacerda.
 
-Atualmente estou estudando Java E programação para Web.
+Atualmente estou estudando Java e programação para Web.
 
 ## Tecnologias
 
