@@ -1,4 +1,6 @@
-# 🖖 Olá! Eu sou Cláudio.
+# Hi there 👋
+> **Full-Stack Software Developer**
+---
 
 ## Tecnologias
 
