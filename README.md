@@ -20,3 +20,4 @@ Atualmente estou estudando Java e programação para Web.
 
 ## Minhas atividades
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudiofsn&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claudiofsn&layout=compact&theme=radical)
