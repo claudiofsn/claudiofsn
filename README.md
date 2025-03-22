@@ -19,4 +19,4 @@ Atualmente estou estudando Java e programação para Web.
 </div>
 
 ## Minhas atividades
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=claudiosfn&theme=gruvbox&hide_border=true&locale=pt-br)](https://git.io/streak-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=claudiofsn&show_icons=true&theme=radical)
