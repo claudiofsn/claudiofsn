@@ -17,7 +17,7 @@
 
 ## ⚡ Sobre Mim
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu foco é criar arquiteturas limpas e contribuir para a comunidade open source. Estou sempre em busca de aprimorar minhas habilidades em **Next.js**, **NestJS** e **DevOps**.
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Meu foco é criar arquiteturas limpas e contribuir para a comunidade open source.
 
 ---
 
